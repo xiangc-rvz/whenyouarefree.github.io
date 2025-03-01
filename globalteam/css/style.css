@@ -1,0 +1,77 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styling */
+header {
+    background-color: #4CAF50;
+    padding: 20px;
+    color: white;
+}
+
+/* Navigation styling */
+nav {
+    background-color: #333;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Main content styling */
+main {
+    background-color: #f2f2f2;
+    font-size: 18px;
+    padding: 20px;
+}
+
+/* Footer styling */
+footer {
+    background-color: #555;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* List item styling */
+li {
+    display: inline-block;
+    width: 200px;
+    margin: 5px;
+}
+
+/* Heading styling */
+h1 {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    color: #333;
+}
+
+/* Paragraph styling */
+p {
+    line-height: 1.6;
+}
+
+/* Additional styling for images */
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px 0;
+}
+
+/* Link styling */
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
